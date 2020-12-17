@@ -2,7 +2,7 @@ Otimização de custos e emissões de CO2 nas operações de pull out de risers 
 
 Aluno: Milene França https://github.com/milfranca
 
-Orientador(/a/es/as): Ana Carolina Abreu
+Orientador(/a/es/as): Ana Carolina Abreu https://github.com/acarolina1612
 
                         _________________________________________
 
