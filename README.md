@@ -11,7 +11,7 @@ Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de c
 
 • https://github.com/milfranca/Projeto-Final-BI-Master-PUC-Rio
 
-• Link para a monografia.
+• https://github.com/milfranca/Projeto-Final-BI-Master-PUC-Rio/blob/main/Monografia_BI_Master_MileneFranca.pdf
 
                         _________________________________________
 
