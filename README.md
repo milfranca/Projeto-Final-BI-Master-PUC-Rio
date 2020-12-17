@@ -1,6 +1,6 @@
 Otimização de custos e emissões de CO2 nas operações de pull out de risers de unidades de produção offshore
 
-Aluno: Milene França
+Aluno: Milene França https://github.com/milfranca
 
 Orientador(/a/es/as): Ana Carolina Abreu
 
