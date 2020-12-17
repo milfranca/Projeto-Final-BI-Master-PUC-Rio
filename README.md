@@ -24,7 +24,7 @@ Uma das etapas da remoção de dutos submarinos é o pull out de risers, que ser
 
 A “Tomada de Decisão” sobre qual combinação de alternativas seria mais adequada para um conjunto de riser de uma plataforma é trabalhosa quando realizada através de métodos mais comuns utilizados na otimização de problemas, como busca aleatória associada a bom senso.
 
-Esse trabalho vem propor a utilização de algoritmos genéticos (GAs) como ferramenta para otimização da combinação de alternativas de pull out de risers, onde serão avaliados os parâmetros custos e emissões de CO2.
+Esse trabalho vem propor a utilização de algoritmos genéticos como ferramenta para otimização da combinação de alternativas de pull out de risers, onde serão avaliados os parâmetros custos e emissões de CO2.
 
                         _________________________________________
 
